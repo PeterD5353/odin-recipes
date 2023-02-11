@@ -1,0 +1,23 @@
+h3{
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+
+ol{
+    text-align: center;
+
+}
+ul{
+    text-align: center;
+}
+
+ol li{background-color: yellow;
+    color: blue;
+
+}
+
+ul li{
+    background-color: blue;
+    color: yellow;
+}
